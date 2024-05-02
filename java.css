@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* #h1 {
+    height: 5rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 5rem;
+}
+.choice {
+    height: 200px;
+    width: 170px;
+    cursor: pointer;
+
+}
+.choice:hover {
+    opacity: 0.5;
+}
+img {
+    height: 140px;
+    width: 140px;
+    object-fit: cover;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;   
+}
+.score-board {
+    display: flex;
+    justify-content: center;
+    text-align: center;   
+    font-size: 2rem;      
+}
+#user-score, #comp-score {
+    font-size: 4rem;
+    margin: 0 4rem;
+}
+.move {
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+    margin-top: 3rem;
+}
+
+#msag {
+    font-size: 2rem;
+    height: 3rem;
+    background-color: black;
+    color: white;
+    display: inline;
+    line-height: 3rem;
+    padding: 1rem;
+    border-radius: 3rem;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 1rem;
+    display: inline-block;
+    text-align: center;
+    line-height: 5rem;
+}
+
+.para-01{
+    color: red;
+    font-size: 3rem;
+
+}
+.hello {
+    background-color: aqua;
+    font-size: 1.5rem;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+#mode {
+    display: inline-block;
+
+} */
+
+#head {
+    background-color: black;
+    text-align: center;
+    color: white;
+    line-height: 4rem;
+}
+img {
+    height : 150px;
+    width: 150px;
+    background-size: cover;
+}
+
+.user-choice {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    margin-top: 1.5rem;
+    
+}
+
+.choice {
+    margin: 2rem;
+    border: 5px solid black;
+    border-radius: 10px;
+
+}
+.choice:hover {
+    opacity: 0.5;
+    cursor: pointer;   
+}
+.score-board {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 2rem;
+}
+.score {
+    margin: 2rem;
+}
+#user-score, #comp-score {
+    font-size: 4rem;
+    margin: 0 4rem;
+}
+.move {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#msg {
+    display: inline;
+    background-color: black;
+    color: white;
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 2rem;
+    border-radius: 2rem;
+    padding: 1rem;
+}
